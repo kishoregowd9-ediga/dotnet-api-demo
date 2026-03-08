@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dotnet-api-demo
+  description: Sample ASP.NET Core Web API service
+  tags:
+    - dotnet
+    - api
+spec:
+  type: service
+  lifecycle: experimental
+  owner: user:guest
