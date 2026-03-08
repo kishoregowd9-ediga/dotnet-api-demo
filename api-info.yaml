@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: dotnet-api-demo
+  description: ASP.NET Core Weather API
+spec:
+  type: openapi
+  lifecycle: experimental
+  owner: user:kishore
+  definition:
+    $text: http://localhost:5175/swagger/v1/swagger.json

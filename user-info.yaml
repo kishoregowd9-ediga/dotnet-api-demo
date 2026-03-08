@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: kishore
+spec:
+  profile:
+    displayName: Kishore
+    email: kishore.gowd9@gmail.com
