@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/dotnet-api-demo.props" />
-</Project>
