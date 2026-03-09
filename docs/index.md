@@ -1,14 +1,19 @@
 # Dotnet API Demo
 
-This is a sample ASP.NET Core Web API.
+This service is built using ASP.NET Core.
 
-## Endpoints
+## Overview
+
+This API provides weather forecast data.
+
+## Endpoint
 
 GET /weatherforecast
 
-Returns weather forecast data.
+Returns weather forecast details.
 
-## Technology
+## Technology Stack
 
 - ASP.NET Core
 - .NET 8
+- Swagger
